@@ -110,8 +110,10 @@ credit-card-financial-dashboard/
 
 ## 📸 Screenshots
 
-> ![Dashboard Overview](dashboard_screenshots/dashboard_overview.png)  
-> _Example: KPI section showing revenue growth_
+> ![Credit Card Financial Dashboard-Transaction](dashboard_screenshots/Credit Card Financial Dashboard-Transaction.png)
+>
+> ![Credit Card Financial Dashboard-Customer](dashboard_screenshots/Credit Card Financial Dashboard-Customer.png)  
+ 
 
 ---
 
@@ -130,6 +132,6 @@ Feedback and contributions are welcome!
 
 ### 🔗 Connect with Me:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)  
-- 💻 [GitHub](https://github.com/your-github-username)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rohit-lakha/)  
+- 💻 [GitHub](https://github.com/Rohitlakha)
 
