@@ -94,20 +94,6 @@ These help to present and share insights effectively.
 
 ---
 
-## 📁 Folder Structure
-
-credit-card-financial-dashboard/
-│
-├── CSV_FILE/ # CSV files
-├── SQL_queries/ # SQL scripts for PostgreSQL
-├── dashboard_screenshots/ # Power BI screenshots
-├── powerbi/ # .pbix Power BI file
-├── presentation/ # Project Report PPT
-├── video_demo/ # Live dashboard demo video
-├── README.md # Project overview (this file)
-
----
-
 ## 📸 Screenshots
 
 > ![Credit Card Financial Dashboard-Transaction](dashboard_screenshots/Credit Card Financial Dashboard-Transaction.png)
