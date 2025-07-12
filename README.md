@@ -12,10 +12,8 @@ This project demonstrates a complete end-to-end data analysis pipeline using **P
 - [⚙️ Data Processing & DAX Queries](#-data-processing--dax-queries)
 - [📊 Dashboard Design & Key Insights](#-dashboard-design--key-insights)
 - [📤 Export & Share](#-export--share)
-- [📁 Folder Structure](#-folder-structure)
 - [📸 Screenshots](#-screenshots)
-- [🎬 Live Demo](#-live-demo)
-
+- [🔗 Connect with Me](#-connect--with-me)
 ---
 
 ## 🎯 Project Overview
