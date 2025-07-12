@@ -96,7 +96,7 @@ These help to present and share insights effectively.
 
 ## 📸 Screenshots
 
-> ![Credit Card Financial Dashboard-Transaction](https://github.com/Rohitlakha/credit-card-financial-dashboard/blob/3e46c30663c565159da54213816daab7eec1e24c/dashboard_screenshots/Credit%20Card%20Financial%20Dashboard-Transaction.png)
+> ![Credit Card Financial Dashboard-Transaction](https://github.com/Rohitlakha/credit-card-financial-dashboard/blob/d6da4315cb23b9ddbb0cbe10e6eb3579a78fe9d8/dashboard_screenshots/Credit%20Card%20Financial%20Dashboard-Customer.png)
 >
 > ![Credit Card Financial Dashboard-Customer](https://github.com/Rohitlakha/credit-card-financial-dashboard/blob/3e46c30663c565159da54213816daab7eec1e24c/dashboard_screenshots/Credit%20Card%20Financial%20Dashboard-Transaction.png)  
  
