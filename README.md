@@ -96,16 +96,16 @@ These help to present and share insights effectively.
 
 ## 📸 Screenshots
 
-> ![Credit Card Financial Dashboard-Transaction](dashboard_screenshots/Credit Card Financial Dashboard-Transaction.png)
+> ![Credit Card Financial Dashboard-Transaction](https://github.com/Rohitlakha/credit-card-financial-dashboard/blob/3e46c30663c565159da54213816daab7eec1e24c/dashboard_screenshots/Credit%20Card%20Financial%20Dashboard-Transaction.png)
 >
-> ![Credit Card Financial Dashboard-Customer](dashboard_screenshots/Credit Card Financial Dashboard-Customer.png)  
+> ![Credit Card Financial Dashboard-Customer](https://github.com/Rohitlakha/credit-card-financial-dashboard/blob/3e46c30663c565159da54213816daab7eec1e24c/dashboard_screenshots/Credit%20Card%20Financial%20Dashboard-Transaction.png)  
  
 
 ---
 
 ## 🎬 Live Demo
 
-> 🔗 [Watch the working dashboard video](video_demo/live_demo.mp4)
+> 🔗 [Watch the working dashboard video](https://github.com/Rohitlakha/credit-card-financial-dashboard/blob/3e46c30663c565159da54213816daab7eec1e24c/video_demo/live_demo.mp4)
 
 ---
 
