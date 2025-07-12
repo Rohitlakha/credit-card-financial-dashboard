@@ -103,12 +103,6 @@ These help to present and share insights effectively.
 
 ---
 
-## 🎬 Live Demo
-
-> 🔗 [Watch the working dashboard video](https://github.com/Rohitlakha/credit-card-financial-dashboard/blob/3e46c30663c565159da54213816daab7eec1e24c/video_demo/live_demo.mp4)
-
----
-
 ## 🙌 Thanks for Visiting!
 
 If you like this project, feel free to ⭐️ star the repo.  
