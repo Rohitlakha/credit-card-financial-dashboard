@@ -1,6 +1,6 @@
 # 💳 Credit Card Financial Dashboard (PostgreSQL + Power BI)
 
-[![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)[![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)[![Made with DAX](https://img.shields.io/badge/Language-DAX-blue?logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dax/)[![Made by Rohit Lakha](https://img.shields.io/badge/Made%20By-Rohit%20Lakha-brightgreen)](https://github.com/RohitLakha)
+[![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/) [![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![Made with DAX](https://img.shields.io/badge/Language-DAX-blue?logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dax/) [![Made by Rohit Lakha](https://img.shields.io/badge/Made%20By-Rohit%20Lakha-brightgreen)](https://github.com/RohitLakha)
 
 📊 This project demonstrates an **end-to-end data analytics pipeline** using **PostgreSQL** for data storage and SQL transformations, combined with **Power BI** for visualization. The dashboard provides **deep insights into credit card transactions, customer behavior, and revenue trends**.
 
