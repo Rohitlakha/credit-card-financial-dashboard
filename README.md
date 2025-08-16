@@ -1,115 +1,105 @@
-# 💳 Credit Card Financial Dashboard using Power BI & PostgreSQL
+# 💳 Credit Card Financial Dashboard (PostgreSQL + Power BI)
 
-This project demonstrates a complete end-to-end data analysis pipeline using **PostgreSQL** as the backend database and **Power BI** for data visualization. The dashboard provides key financial insights into credit card transactions, customer behavior, and revenue trends.
+[![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)[![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)[![Made with DAX](https://img.shields.io/badge/Language-DAX-blue?logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dax/)[![Made by Rohit Lakha](https://img.shields.io/badge/Made%20By-Rohit%20Lakha-brightgreen)](https://github.com/RohitLakha)
+
+📊 This project demonstrates an **end-to-end data analytics pipeline** using **PostgreSQL** for data storage and SQL transformations, combined with **Power BI** for visualization. The dashboard provides **deep insights into credit card transactions, customer behavior, and revenue trends**.
 
 ---
 
 ## 📌 Table of Contents
-
 - [🎯 Project Overview](#-project-overview)
-- [🛠️ Tools & Technologies](#-tools--technologies)
+- [🛠 Tools & Technologies](#-tools--technologies)
 - [📥 Import Data from SQL Database](#-import-data-from-sql-database)
 - [⚙️ Data Processing & DAX Queries](#-data-processing--dax-queries)
 - [📊 Dashboard Design & Key Insights](#-dashboard-design--key-insights)
 - [📤 Export & Share](#-export--share)
 - [📸 Screenshots](#-screenshots)
-- [🔗 Connect with Me](#-connect--with-me)
+- [👨‍💻 Author & Connect](#-author--connect)
+
 ---
 
 ## 🎯 Project Overview
+This project delivers a **dynamic financial analytics dashboard** to monitor:
+- Credit card **transaction performance**
+- Customer **spending trends**
+- **Revenue growth** over time  
 
-In this project, I created a dynamic and insightful dashboard to monitor **credit card transactions**, **customer trends**, and **revenue performance** over time.  
-Key tasks included:
-- Connecting Power BI with a PostgreSQL database
-- Cleaning and transforming data using SQL
-- Writing DAX measures for KPIs
-- Designing a professional Power BI dashboard
-- Sharing insights via a video demo and presentation
+Key tasks:
+- ✅ Connected Power BI with PostgreSQL (live connection)  
+- ✅ Cleaned and transformed data using SQL views  
+- ✅ Built **DAX measures** for KPIs and comparisons  
+- ✅ Designed a professional, user-friendly dashboard  
+- ✅ Shared insights via presentation and demo  
 
 ---
 
-## 🛠️ Tools & Technologies
-
-- 🐘 PostgreSQL (Data storage & SQL queries)
-- 📊 Power BI (Dashboard & Data modeling)
-- 🧮 DAX (Calculated columns & measures)
-- 📂 Excel (Raw data import)
-- 🎥 OBS Studio / Screen Recorder (Demo video)
+## 🛠 Tools & Technologies
+- 🐘 **PostgreSQL** → Data storage, SQL queries & transformations  
+- 📊 **Power BI** → Data visualization, dashboard design  
+- 🧮 **DAX** → Calculated measures & KPIs  
+- 📂 **Excel/CSV** → Initial raw data import  
+- 🎥 **OBS Studio / Screen Recorder** → Dashboard demo recording  
 
 ---
 
 ## 📥 Import Data from SQL Database
+The dataset was imported directly from **PostgreSQL** into Power BI.  
+- SQL queries created **views** for weekly and customer-level aggregation  
+- Data refresh supported through **live connection**  
 
-I imported credit card transaction data directly from a **PostgreSQL database** into Power BI.  
-Using SQL queries, I created views and transformed raw data for analysis.
-
-✅ Benefit: Whenever the PostgreSQL data updates, Power BI reflects the changes automatically through **live connectivity**.
+👉 **Benefit**: As PostgreSQL updates, Power BI dashboard refreshes automatically.  
 
 ---
 
 ## ⚙️ Data Processing & DAX Queries
-
-I used **SQL** for:
-- Creating tables and views
-- Filtering weekly data
-- Grouping by customer, income level, and date
-
-Then in **Power BI**, I applied **DAX formulas** for:
-- Weekly revenue calculation
-- Previous vs current week comparison
-- % growth KPIs
-- Customer segmentation
+- **In SQL** → Created tables, grouped data by customer & income level, weekly filters  
+- **In Power BI (DAX)** →  
+  - Weekly Revenue  
+  - Previous vs Current Week Comparison  
+  - % Growth KPIs  
+  - Customer Segmentation  
 
 ---
 
 ## 📊 Dashboard Design & Key Insights
-
 The dashboard includes:
-- Total Revenue, Transaction Count, and Customer Count (with week-over-week % changes)
-- KPIs by Income Group
-- Daily transaction trends
-- Top-performing cities
-- Customer engagement visualization
+- 📌 **Total Revenue, Transaction Count, Customer Count** (with week-over-week % change)  
+- 🏦 KPIs by **Income Group**  
+- 📅 Daily transaction trends  
+- 🌍 Top-performing **Cities**  
+- 👥 Customer Engagement visuals  
 
-### 📈 Key Insights:
-- Total Transaction Amount increased by **24.67%**
-- Total Transaction Count increased by **19.34%**
-- Customer Count grew by **11.47%**
-- Peak transactions occur on **Saturday**
-- Most spending customers belong to **Upper class** income group
+### 📈 Key Insights
+- 💰 Transaction Amount ↑ **24.67%**  
+- 🔄 Transaction Count ↑ **19.34%**  
+- 👥 Customer Base ↑ **11.47%**  
+- 📅 Peak transactions on **Saturday**  
+- 🏆 **Upper Class** customers spend the most  
 
 ---
 
 ## 📤 Export & Share
-
-The final dashboard is exported in the following formats:
-- `.pbix` (Power BI file)
-- `.pptx` (Presentation)
-- `.mp4` (Live working video)
-- Screenshot images
-
-These help to present and share insights effectively.
+Deliverables:
+- 📂 `CreditCardDashboard.pbix` → Power BI file  
+- 📂 `Presentation.pptx` → Dashboard presentation  
+- 🎥 `.mp4` → Live demo video  
+- 🖼️ PNG Screenshots  
 
 ---
 
 ## 📸 Screenshots
-
-> ![Credit Card Financial Dashboard-Transaction](https://github.com/Rohitlakha/credit-card-financial-dashboard/blob/d6da4315cb23b9ddbb0cbe10e6eb3579a78fe9d8/dashboard_screenshots/Credit%20Card%20Financial%20Dashboard-Customer.png)
->
-> ![Credit Card Financial Dashboard-Customer](https://github.com/Rohitlakha/credit-card-financial-dashboard/blob/3e46c30663c565159da54213816daab7eec1e24c/dashboard_screenshots/Credit%20Card%20Financial%20Dashboard-Transaction.png)  
- 
+| Transaction View | Customer View |
+|------------------|---------------|
+| ![Transaction](https://github.com/Rohitlakha/credit-card-financial-dashboard/blob/d6da4315cb23b9ddbb0cbe10e6eb3579a78fe9d8/dashboard_screenshots/Credit%20Card%20Financial%20Dashboard-Customer.png) | ![Customer](https://github.com/Rohitlakha/credit-card-financial-dashboard/blob/3e46c30663c565159da54213816daab7eec1e24c/dashboard_screenshots/Credit%20Card%20Financial%20Dashboard-Transaction.png) |
 
 ---
 
-## 🙌 Thanks for Visiting!
+## 👨‍💻 Author & Connect
+**Rohit Lakha**  
 
-If you like this project, feel free to ⭐️ star the repo.  
-Feedback and contributions are welcome!
+🔗 [LinkedIn](https://www.linkedin.com/in/rohit-lakha/)  
+💻 [GitHub](https://github.com/RohitLakha)  
 
 ---
 
-### 🔗 Connect with Me:
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/rohit-lakha/)  
-- 💻 [GitHub](https://github.com/Rohitlakha)
-
+⭐ If you found this project useful, don’t forget to **star the repo** and share your feedback!
